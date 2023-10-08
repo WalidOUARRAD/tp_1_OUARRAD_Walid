@@ -24,6 +24,4 @@ function validerettester($mdp) {
     }
 }
 
-
-c
 ?>
